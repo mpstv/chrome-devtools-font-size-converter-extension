@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+  "name": "Font size converter",
+  "description": "This is simple font-size converter for devtools",
+  "version": "0.0.1",
+  "devtools_page": "devtools.html"
+}
